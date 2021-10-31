@@ -1,0 +1,14 @@
+D:\Android projects\Exam\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\Android projects\Exam\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\Android projects\Exam\App1\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+D:\Android projects\Exam\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\Views\UserDetails.xaml.g.cs
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+D:\Android projects\Exam\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb

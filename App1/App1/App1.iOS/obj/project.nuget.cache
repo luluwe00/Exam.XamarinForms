@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FYbOgUw3IWxwWaq3IoB+as7nigzaAR9kDInYlLYFGjr/GbMHYk7YB9ObmAvAm97JPk5sFAlIqK4t7rDNzpj9Ew==",
+  "success": true,
+  "projectFilePath": "D:\\Android projects\\Exam\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Clark\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Clark\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
